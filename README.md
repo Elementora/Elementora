@@ -9,7 +9,7 @@
 
 ###
 
-
+<div class="tenor-gif-embed" data-postid="22021840" data-share-method="host" data-aspect-ratio="1.3913" data-width="100%"><a href="https://tenor.com/view/kai-hiwatari-tyson-kai-beyblade-beyblade-anime-gif-22021840">Kai Hiwatari Tyson GIF</a>from <a href="https://tenor.com/search/kai+hiwatari-gifs">Kai Hiwatari GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
  <img align="right" height="150" src="https://tenor.com/hM4L99KWXDl.gif"  />
 ###
