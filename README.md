@@ -11,6 +11,7 @@
 
 <div class="tenor-gif-embed" data-postid="6401865716731631797" data-share-method="host" data-aspect-ratio="1.33136" data-width="100%"><a href="https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797">Beyblade Kai Classic Beyblade GIF</a>from <a href="https://tenor.com/search/beyblade+kai-gifs">Beyblade Kai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 */ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> /*
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797)"  />
 
 ###
 
