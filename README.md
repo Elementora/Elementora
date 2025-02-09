@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div class="tenor-gif-embed" data-postid="6401865716731631797" data-share-method="host" data-aspect-ratio="1.33136" data-width="100%"><a href="https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797">Beyblade Kai Classic Beyblade GIF</a>from <a href="https://tenor.com/search/beyblade+kai-gifs">Beyblade Kai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+*/ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> /*
 
 ###
 
@@ -24,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  */<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />/*
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
@@ -44,6 +45,6 @@
 
 <br clear="both">
   <img alt="github-snake" src="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
