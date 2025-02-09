@@ -11,7 +11,7 @@
 
 
  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
- <img align="right" height="150" src="[https://tenor.com/hM4L99KWXDl.gif](https://tenor.com/view/kai-hiwatari-tyson-kai-beyblade-beyblade-anime-gif-22021840)"  />
+ <img align="right" height="150" src="https://tenor.com/view/kai-hiwatari-tyson-kai-beyblade-beyblade-anime-gif-22021840"  />
 ###
 
 <div align="left">
