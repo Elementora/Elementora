@@ -10,8 +10,8 @@
 ###
 
 
-*/ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> /*
- <img align="right" height="150" src="https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797(https://tenor.com/hM4L99KWXDl.gif)"  />
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
+ <img align="right" height="150" src="https://tenor.com/hM4L99KWXDl.gif"  />
 ###
 
 <div align="left">
