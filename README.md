@@ -12,7 +12,7 @@
  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
 
  <img align="right" height="150" src="https://tenor.com/view/kai-hiwatari-tyson-kai-beyblade-beyblade-anime-gif-22021840"  />
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ###
 
 <div align="left">
@@ -45,6 +45,8 @@
 ###
 
 <br clear="both">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake.svg" />
 
 
