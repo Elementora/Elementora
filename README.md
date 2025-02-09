@@ -9,9 +9,10 @@
 
 ###
 
-
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
 
  <img align="right" height="150" src="https://tenor.com/view/kai-hiwatari-tyson-kai-beyblade-beyblade-anime-gif-22021840"  />
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <div align="left">
@@ -25,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  */<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />/*
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
