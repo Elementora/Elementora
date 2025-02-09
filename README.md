@@ -3,15 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elementora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?Elementora=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div class="tenor-gif-embed" data-postid="6401865716731631797" data-share-method="host" data-aspect-ratio="1.33136" data-width="100%"><a href="https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797">Beyblade Kai Classic Beyblade GIF</a>from <a href="https://tenor.com/search/beyblade+kai-gifs">Beyblade Kai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 */ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> /*
- <img align="right" height="150" src="[https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797](https://tenor.com/hM4L99KWXDl.gif)"  />
+ <img align="right" height="150" src="https://tenor.com/view/beyblade-kai-classic-beyblade-anime-gif-6401865716731631797(https://tenor.com/hM4L99KWXDl.gif)"  />
 ###
 
 <div align="left">
