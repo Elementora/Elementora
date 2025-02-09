@@ -49,5 +49,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Elementora/Elementora/output/github-snake.svg" />
 
- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> 
+<center> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> </center>
 
